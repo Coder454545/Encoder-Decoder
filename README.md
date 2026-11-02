@@ -173,6 +173,5 @@ Encoder-Decoder/
 
 ## Acknowledgements
 
-- Built as part of a DeepLearning.AI course assignment
 - Sentence pairs from the [Tatoeba Project](https://tatoeba.org/) via [ManyThings.org](https://www.manythings.org/anki/)
 - Architecture based on Vaswani et al., [*Attention Is All You Need*](https://arxiv.org/abs/1706.03762) (2017)
